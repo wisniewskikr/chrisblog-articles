@@ -5,6 +5,6 @@ date: '2026-08-21'
 category: books
 tags:
 - psychology
-status: DRAFT
+status: PUBLISHED
 ---
 Body of Book 1
