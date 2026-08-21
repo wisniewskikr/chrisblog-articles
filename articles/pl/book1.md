@@ -1,5 +1,5 @@
 ---
-title: Książka 1
+title: Tytuł Książki 1
 author: Chris
 date: '2026-08-21'
 category: books
