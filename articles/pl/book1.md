@@ -5,6 +5,6 @@ date: '2026-08-23'
 category: books
 tags:
 - psychologia
-status: DRAFT
+status: PUBLISHED
 ---
 Ciało Książki 1
