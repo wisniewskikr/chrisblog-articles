@@ -1,4 +1,1 @@
-[
-  { "id": "economy", "plLabel": "Ekonomia", "enLabel": "Economy" },
-  { "id": "psychology", "plLabel": "Psychologia", "enLabel": "Psychology" }
-]
+[{"id":"economy","plLabel":"Ekonomia","enLabel":"Economy"},{"id":"philosophy","plLabel":"Filozofia","enLabel":"Philosophy"},{"id":"psychology","plLabel":"Psychologia","enLabel":"Psychology"}]
