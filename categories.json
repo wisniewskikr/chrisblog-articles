@@ -1,0 +1,5 @@
+[
+  {"id":"books","plLabel":"Książki","enLabel":"Books"},
+  {"id":"movies","plLabel":"Filmy","enLabel":"Movies"},
+  {"id":"travel","plLabel":"Podróże","enLabel":"Travel"}
+]
